@@ -47,6 +47,6 @@ try:
 				break
 		print("\n\n[!] Done .. !!")
 	else:
-		print("fbbrute: error: No such file or directory")
+		print("FBCrack: error: No such file or directory")
 except KeyboardInterrupt:
-	print("fbbrute: error: Keyboard interrupt")
+	print("FBCrack: error: Keyboard interrupt")
