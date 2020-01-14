@@ -1,3 +1,5 @@
+![](img.png)
+
 # FBCracker
 FBCracker is a Facebook brute force tool, launches an attack by guessing the target password with a set of wordlist provided.  
 so this is the same as you try to login to someone's account while guessing the password, if the password you are trying is wrong, you will think of another password that might be used by the target to login to the account but this way might be a bit longer, but with FBBrute this will make it easier.  
